@@ -53,7 +53,7 @@ Santix-IA.2/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/Lejayk/Santix-IA.2.git
+git clone https://github.com/santixpadron/Santix-IA.2.git
 cd Santix-IA.2
 
 # 2. Crear entorno virtual
@@ -130,7 +130,7 @@ La GUI incluye:
 
 ## 👤 Autor
 
-**Lejayk** — [GitHub](https://github.com/Lejayk)
+**santixpadron** — [GitHub](https://github.com/santixpadron)
 
 ## 📄 Licencia
 
